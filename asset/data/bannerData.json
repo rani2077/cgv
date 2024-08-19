@@ -1,0 +1,40 @@
+{
+    "items":[
+        {
+            "id":"",
+            "url":"",
+            "imgSrc":"./asset/images/visual1.jpg",
+            "title":"신한카드 이용하고 CGV관람권 세트 받아가자!"
+        },
+        {
+            "id":"",
+            "url":"",
+            "imgSrc":"./asset/images/visual2.jpg",
+            "title":"파일럿 예고편 보러가기"
+        },
+        {
+            "id":"",
+            "url":"",
+            "imgSrc":"./asset/images/visual3.jpg",
+            "title":"10라이브즈 - 엉뚱한 동물로 또 다시 태어났다?!"
+        },
+        {
+            "id":"",
+            "url":"",
+            "imgSrc":"./asset/images/visual4.jpg",
+            "title":"PAYCO포인트로 1만5천원 이상 결제 시 4000포인트 적립"
+        },
+        {
+            "id":"",
+            "url":"",
+            "imgSrc":"./asset/images/visual5.jpg",
+            "title":"미니언즈 키링, 팝콘, 텀블러 출시"
+        },
+        {
+            "id":"",
+            "url":"",
+            "imgSrc":"./asset/images/visual6.jpg",
+            "title":"행복의 나라 예고편 보러가기"
+        }
+    ]
+}
